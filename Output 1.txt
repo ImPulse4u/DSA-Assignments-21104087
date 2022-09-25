@@ -1,0 +1,13 @@
+Enter the number of family members: 4
+Enter Name: Anil
+Enter Age: 50
+Enter Name: Jiwna
+Enter Age: 48
+Enter Name: Anjali
+Enter Age: 22
+Enter Name: Abhishek
+Enter Age: 19
+Anil 50
+Jiwna 48
+Anjali 22
+Abhishek 19
